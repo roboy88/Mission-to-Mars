@@ -114,7 +114,7 @@ def mars_enhanced_images(browser):
     #(after "inpect" ing the image tag that corresponds to the image in question appears at the 4th position (0,1,2,3))
     #So i =3
     i = 3
-    for result in results:
+    for i in range(4): 
         hemispheres = {}
         # Find and click the full image
         full_image_elem = browser.find_by_tag('img')[i]
