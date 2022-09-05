@@ -117,4 +117,4 @@ To submit your work to BootCampSpot, create a new GitHub repository and upload t
 
 ### Copyright
 
-Trilogy Education Services © 2020. All Rights Reserved.
+Trilogy Education Services © 2022. All Rights Reserved.
